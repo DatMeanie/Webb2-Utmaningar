@@ -1,0 +1,49 @@
+body {
+    background-color: azure;
+}
+#bigbox {
+    width: 600px;
+    height: 600;
+    margin-left: auto;
+    margin-right: auto;
+}
+.smallbox {
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: inline;
+}
+#a1 {
+    background: #0000FF;
+}
+#a2 {
+    background: #FF0000;
+}
+#a3 {
+    background: #FFFF00;
+}
+#b1 {
+    background: #0B610B;
+}
+#b2 {
+    background: #FAFAFA;
+}
+#b3 {
+    background: #FF8000;
+}
+#c1 {
+    background: #8904B1;
+}
+#c2 {
+    background: #F5A9F2;
+}
+#c3 {
+    background: #FE2E2E;
+}
+.text {
+    text-align: center;
+    font-size: 30px;
+    height: 200px;
+    line-height: 200px;
+    font-weight: bold;
+}
