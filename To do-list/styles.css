@@ -1,0 +1,11 @@
+
+li {
+    padding-right: 10px;
+     border: 2px #0B610B solid;
+    background-color: green;
+    margin-right: 90%;
+}
+li.checked {
+    background-color: white;
+    text-decoration: line-through;
+}
