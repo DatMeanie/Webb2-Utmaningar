@@ -1,0 +1,27 @@
+#boxshape {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: black 3px solid;
+}
+#catimage {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+}

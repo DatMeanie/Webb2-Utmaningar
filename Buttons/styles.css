@@ -1,0 +1,43 @@
+/* ----- BUTTONS ----- */
+body {
+    margin-top: 50px;
+    text-align: center;
+}
+a.one:link{
+    font-size: 15px;
+    background: white;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: orange;
+    border: 2px orange solid; 
+}
+a:active, a:visited, a.one:hover {
+    color: white;
+    transition: 1s;
+}
+a:active {
+    background: blue;
+    border: white 2px solid;
+}
+a:visited {
+    background: darkorange;
+}
+a.one:hover {
+    background: orange;
+}
+a.two:link{
+    font-size: 15px;
+    background: orange;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border: 2px orange solid; 
+}
+a.two:hover {
+    background: white;
+    border: 2px orange solid; 
+    color: orange;
+    transition: 1s;
+}
