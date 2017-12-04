@@ -1,0 +1,22 @@
+a, h2 {
+    text-decoration: none;
+    color: black;
+    font-size: 110%;
+    display: inline;
+}
+h2 {
+    font-size: 150%;
+    margin-right: 100px;
+}
+a {
+    margin-right: 100px;
+}
+.border {
+    border: solid black 2px;
+    padding: 25px;
+}
+.leftside {
+    margin-left: 500px;
+    display: inline-block;
+    
+}
